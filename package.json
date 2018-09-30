@@ -1,10 +1,10 @@
 {
-  "id": "telegramdark",
-  "name": "Telegram - Dark",
+  "id": "telegramtransparentdark",
+  "name": "Telegram - Transparent Dark",
   "version": "1.0.0",
   "description": "Telegram",
   "main": "index.js",
-  "author": "Heitor Ramon Ribeiro<heitor.ramon@gmail.com>",
+  "author": "MikeDabrowski",
   "license": "Apache 2",
   "config": {
     "serviceURL": "https://web.telegram.org",
